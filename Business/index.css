@@ -54,10 +54,12 @@ a:hover {
     opacity: 80%;
 }
 
-.subject-titles {
+.section-titles {
     text-align: center;
     padding-top: 3%;
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .wheat {
